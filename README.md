@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa MEBARKI</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A Software Engineer and full stack developer from Algeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melissa966" alt="melissa966" /></a> </p>
 
